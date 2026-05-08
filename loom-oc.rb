@@ -1,6 +1,6 @@
 cask "loom-oc" do
-  version "0.1.0"
-  sha256 "7bc303d792d4670bbd510c495d9f84fe022e9d3f0e2399f1136f318dfcec3cea"
+  version "0.3.0"
+  sha256 "f4bce03d7103547da79ded82abd73a9349c5659db6d5f84532cc33adbead82ce"
 
   url "https://github.com/kespineira/loom-oc/releases/download/v#{version}/Loom_#{version}_universal.dmg"
   name "Loom"
